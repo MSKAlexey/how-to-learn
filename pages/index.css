@@ -145,7 +145,19 @@
 @import url(../blocks/resources/__logo/resources__logo.css);
 /* Конец блока resources */
 
-/* Блок №16 
+/* Блок №17 
 Блок rotation*/
 @import url(../blocks/rotation/rotation.css);
 /* Конец блока rotation */
+
+/* Блок №18 
+Блок opacity*/
+@import url(../blocks/opacity/opacity.css);
+/* Конец блока opacity */
+
+/* Блок №19 
+Блок video */
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__iframes/video__iframes.css);
+@import url(../blocks/video/__iframe/video__iframe.css);
+/* Конец блока video */

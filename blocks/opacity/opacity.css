@@ -1,0 +1,12 @@
+@keyframes opacity {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+.opacity {
+    transition: opacity 0.3s, visibility 0s linear 0.3s;
+}
