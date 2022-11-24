@@ -66,8 +66,6 @@
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 /* Конец секции table */
 
-
-
 /* Блок №9
 Секция feynman*/
 @import url(../blocks/feynman/feynman.css);
@@ -120,12 +118,12 @@
 @import url(../blocks/cards/__description/cards__description.css);
 /* Конец блока cards */
 
-/* Блок № 
+/* Блок №14 
 Блок oakley*/
 @import url(../blocks/oakley/oakley.css);
 /* Конец блока oakley */
 
-/* Блок № 
+/* Блок №15 
 Блок khan*/
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__container/khan__container.css);
@@ -139,7 +137,7 @@
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
 /* Конец блока khan */
 
-/* Блок № 
+/* Блок №16 
 Блок resources*/
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
