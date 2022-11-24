@@ -1,6 +1,6 @@
 .cards__item {
     margin-top: 0;
-    margin-right: 0;
+    margin-right: 100px;
     margin-bottom: 0;
     margin-left: 0;
     padding-top: 0;
@@ -8,4 +8,8 @@
     padding-bottom: 0;
     padding-left: 0;
     width: 240px;
+  }
+
+  .cards__item:nth-child(3) {
+    margin-right: 0;
   }
