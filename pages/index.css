@@ -1,9 +1,11 @@
+/* Сброс параметров */
 @import url(../vendor/normalize.css);
+/* Конец */
 
 /* Блок №1
-Начало блока header */
+Общее правло для страницы */
 @import url(../blocks/root/root.css);
-/* Конец блока header */
+/* Конец */
 
 /* Блок №2
 Начало блока header */
@@ -37,24 +39,24 @@
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 /* Конец блока two-columns */
 
-/* Блок/секция №5
+/* Блок/секция №6
 Блок digits */
 @import url(../blocks/digits/digits.css);
 /* Конец секции digits */
 
-/* Блок №6
+/* Блок №7
 Секция section-title */
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 /* Конец блока section-title */
 
-/* Блок №7
+/* Блок №8
 Секция section-subtitle */
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
 /* Конец секции section-subtitle */
 
-/* Блок №8
+/* Блок №9
 Секция table*/
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
@@ -66,7 +68,7 @@
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 /* Конец секции table */
 
-/* Блок №9
+/* Блок №10
 Секция feynman*/
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
@@ -75,13 +77,13 @@
 @import url(../blocks/feynman/__illustration/feynman__illustration.css);
 /* Конец секции feynman */
 
-/* Блок №10
+/* Блок №11
 Секция kaufman*/
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 /* Конец секции kaufman */
 
-/* Блок №11
+/* Блок №12
 Блок footer*/
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
@@ -97,33 +99,26 @@
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
 /* Конец блока footer */
 
-/* Эксперементы */
-/* @import url(../blocks/rotation/rotation_header__square-pic); */
-
-/* Блок №12
+/* Блок №13
 Блок techniques*/
 @import url(../blocks/techniques/techniques.css);
 /* Конец блока techniques */
 
-/* Блок №13
+/* Блок №14
 Блок cards*/
 @import url(../blocks/cards/cards.css);
-
 @import url(../blocks/cards/__item/cards__item.css);
-
 @import url(../blocks/cards/__title/cards__title.css);
-
 @import url(../blocks/cards/__image/cards__image.css);
-
 @import url(../blocks/cards/__description/cards__description.css);
 /* Конец блока cards */
 
-/* Блок №14 
+/* Блок №15 
 Блок oakley*/
 @import url(../blocks/oakley/oakley.css);
 /* Конец блока oakley */
 
-/* Блок №15 
+/* Блок №16 
 Блок khan*/
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__container/khan__container.css);
@@ -137,7 +132,7 @@
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
 /* Конец блока khan */
 
-/* Блок №16 
+/* Блок №17 
 Блок resources*/
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
@@ -145,17 +140,17 @@
 @import url(../blocks/resources/__logo/resources__logo.css);
 /* Конец блока resources */
 
-/* Блок №17 
-Блок rotation*/
+/* Блок №18
+Правило rotation поворачивает элемент на 360 градусов в течении 20 секунд, бесконечно повторяется */
 @import url(../blocks/rotation/rotation.css);
-/* Конец блока rotation */
-
-/* Блок №18 
-Блок opacity*/
-@import url(../blocks/opacity/opacity.css);
-/* Конец блока opacity */
+/* Конец */
 
 /* Блок №19 
+Правило opacity затухания ссылок при наведении */
+@import url(../blocks/opacity/opacity.css);
+/* Конец */
+
+/* Блок №20 
 Блок video */
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
