@@ -7,4 +7,6 @@
  padding-right: 20px;
  padding-bottom: 0;
  padding-left: 0;
+ border: none;
+ z-index: 2;
 }
